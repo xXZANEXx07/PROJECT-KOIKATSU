@@ -169,6 +169,7 @@ Algunas herramientas pueden utilizar o estar basadas en:
 - Telethon: https://github.com/LonamiWebs/Telethon
 - Pillow (PIL): https://github.com/python-pillow/Pillow
 - OpenCV: https://github.com/opencv/opencv
+- Kkloader: https://github.com/great-majority/KoikatuCharaLoader
 
 ---
 
