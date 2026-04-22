@@ -3,6 +3,19 @@
 Este repositorio contiene una serie de aplicaciones de escritorio desarrolladas en Python (principalmente con Tkinter) y compiladas a ejecutables (.exe), diseñadas para la automatización, organización, análisis y conversión de archivos.  
 Están enfocadas en flujos de trabajo con grandes volúmenes de imágenes, videos, mods y datos estructurados.
 
+## 📌 Propósito del proyecto
+
+Este proyecto ha sido desarrollado con el único fin de ayudar a la comunidad de Koikatsu, facilitando la organización, análisis y gestión de archivos relacionados con el juego.
+
+No tiene ningún tipo de finalidad comercial ni de lucro.
+
+Todas las herramientas aquí presentadas han sido creadas con fines educativos y de uso personal, buscando optimizar flujos de trabajo y automatización de tareas repetitivas dentro del ecosistema de Koikatsu.
+
+## ⚠️ Aviso
+
+Este repositorio no busca infringir derechos de autor ni redistribuir contenido protegido.  
+El uso de estas herramientas es responsabilidad del usuario.
+
 ---
 
 ## 📦 Aplicaciones incluidas
@@ -136,3 +149,28 @@ Reconstrucción de estructuras originales de mods desde archivos mezclados.
 
 Este proyecto es una colección de herramientas personales enfocadas en automatización de flujos de trabajo con archivos multimedia y datos de Koikatsu.  
 Muchas de las utilidades están diseñadas para manejar grandes cantidades de información de forma eficiente.
+
+## 🙏 Créditos y agradecimientos
+
+Este proyecto no habría sido posible sin el trabajo de múltiples desarrolladores y comunidades open-source.
+
+Agradecimientos especiales a:
+
+- Los autores de librerías y herramientas de Python utilizadas en este proyecto.
+- Los desarrolladores de proyectos open-source relacionados con automatización, análisis de imágenes y manipulación de archivos.
+- La comunidad de Koikatsu por la creación de herramientas y documentación que hicieron posible la manipulación de cartas y mods.
+- Todos los proyectos de código abierto que sirven como base o inspiración para algunas de estas utilidades.
+
+## 🔗 Dependencias principales
+
+Algunas herramientas pueden utilizar o estar basadas en:
+
+- gallery-dl: https://github.com/mikf/gallery-dl
+- Telethon: https://github.com/LonamiWebs/Telethon
+- Pillow (PIL): https://github.com/python-pillow/Pillow
+- OpenCV: https://github.com/opencv/opencv
+
+---
+
+⚠️ Todos los derechos pertenecen a sus respectivos autores.
+Este proyecto es solo para uso personal y educativo.
